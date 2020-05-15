@@ -1,0 +1,2 @@
+SlimeBoss is more like a background object of a fight, 
+consider if it should be a boss or a BackgroundObj
