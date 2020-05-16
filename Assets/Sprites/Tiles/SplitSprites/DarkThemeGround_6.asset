@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Sign
+  m_Name: DarkThemeGround_6
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: dc49d746fd776ae4caa069d6c9460242, type: 3}
+  m_Sprite: {fileID: -2752279022897449067, guid: 8e07a9a54c6d38a42a08a1d307ae9f58,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SpiderWeb
+  m_Name: MediumThemePlatform_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: c4080fb5c37b8ac4092d472d9b54ff5b, type: 3}
+  m_Sprite: {fileID: -9199491566643454834, guid: f31601e460dd950499618ca01f9b0add,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
