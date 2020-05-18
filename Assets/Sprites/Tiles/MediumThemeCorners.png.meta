@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 0378e8c66eb36b24ebe7df61dbf688b1
+guid: 0f1429185c9dfbf44970f47edf2995b5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8403411190897998429
-    second: DarkThemeSoftPlatform_0
+      213: -4782472073735853968
+    second: MediumThemeCorners_0
   - first:
-      213: 6959587533797230442
-    second: DarkThemeSoftPlatform_1
+      213: 1224540161142517919
+    second: MediumThemeCorners_1
   - first:
-      213: -7098749698154396910
-    second: DarkThemeSoftPlatform_2
+      213: -5447702947141903547
+    second: MediumThemeCorners_2
+  - first:
+      213: 2719995279839902283
+    second: MediumThemeCorners_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -96,64 +99,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DarkThemeSoftPlatform_0
+      name: MediumThemeCorners_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 4
+        y: 8
         width: 8
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5a740774f9ee9470800000000000000
-      internalID: 8403411190897998429
+      spriteID: 078afb0dcfe31adb0800000000000000
+      internalID: -4782472073735853968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DarkThemeSoftPlatform_1
+      name: MediumThemeCorners_1
       rect:
         serializedVersion: 2
         x: 8
-        y: 4
+        y: 8
         width: 8
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a67883f0dfb659060800000000000000
-      internalID: 6959587533797230442
+      spriteID: f907916e9c07ef010800000000000000
+      internalID: 1224540161142517919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DarkThemeSoftPlatform_2
+      name: MediumThemeCorners_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 4
+        x: 0
+        y: 0
         width: 8
-        height: 4
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2138814a2cc2c7d90800000000000000
-      internalID: -7098749698154396910
+      spriteID: 54b12c1680fd564b0800000000000000
+      internalID: -5447702947141903547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumThemeCorners_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab89dbb4d5fb520800000000000000
+      internalID: 2719995279839902283
       vertices: []
       indices: 
       edges: []
