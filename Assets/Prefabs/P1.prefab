@@ -13,9 +13,8 @@ GameObject:
   - component: {fileID: -5871470796946366033}
   - component: {fileID: -3363227790523710193}
   - component: {fileID: 5881417951106565943}
-  - component: {fileID: -5524081234654747526}
   - component: {fileID: 4991019160888724704}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: P1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,7 +120,7 @@ CompositeCollider2D:
   m_GameObject: {fileID: 4577274717438677912}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 49fa7dc8bd199ab4e9769105d2e8f8bd, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -150,30 +149,11 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0
   m_GravityScale: 0
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 49fa7dc8bd199ab4e9769105d2e8f8bd, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!95 &-5524081234654747526
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4577274717438677912}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &4991019160888724704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -198,12 +178,15 @@ MonoBehaviour:
   dexLvl: 1
   invLvl: 1
   spdLvl: 1
-  speed: 100
-  jumpHeight: 50
-  health: 2
-  knockback: 2
-  dmg: 2
-  attackFrames: []
-  inv: 1
+  speed: 8
+  jumpHeight: 20
+  health: 5
+  knockback: 5
+  stun: 5
+  dmg: 5
+  invTime: 5
+  gravityScale: 1
+  attackFrames: 
+  col: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
